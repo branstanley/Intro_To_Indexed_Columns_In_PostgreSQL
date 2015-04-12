@@ -1,0 +1,17 @@
+C:\Users\Outsider\Source\Workspaces\Project3\DPOH\DPOH\bin\Debug\DPOH.exe.config
+C:\Users\Outsider\Source\Workspaces\Project3\DPOH\DPOH\obj\Debug\DPOH.csprojResolveAssemblyReference.cache
+C:\Users\Outsider\Source\Workspaces\Project3\DPOH\DPOH\bin\Debug\DPOH.exe
+C:\Users\Outsider\Source\Workspaces\Project3\DPOH\DPOH\bin\Debug\DPOH.pdb
+C:\Users\Outsider\Source\Workspaces\Project3\DPOH\DPOH\bin\Debug\Mono.Security.dll
+C:\Users\Outsider\Source\Workspaces\Project3\DPOH\DPOH\bin\Debug\Npgsql.dll
+C:\Users\Outsider\Source\Workspaces\Project3\DPOH\DPOH\bin\Debug\StyleCop.CSharp.dll
+C:\Users\Outsider\Source\Workspaces\Project3\DPOH\DPOH\bin\Debug\StyleCop.dll
+C:\Users\Outsider\Source\Workspaces\Project3\DPOH\DPOH\bin\Debug\Npgsql.xml
+C:\Users\Outsider\Source\Workspaces\Project3\DPOH\DPOH\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Outsider\Source\Workspaces\Project3\DPOH\DPOH\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Outsider\Source\Workspaces\Project3\DPOH\DPOH\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Outsider\Source\Workspaces\Project3\DPOH\DPOH\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Outsider\Source\Workspaces\Project3\DPOH\DPOH\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Outsider\Source\Workspaces\Project3\DPOH\DPOH\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Outsider\Source\Workspaces\Project3\DPOH\DPOH\obj\Debug\DPOH.exe
+C:\Users\Outsider\Source\Workspaces\Project3\DPOH\DPOH\obj\Debug\DPOH.pdb
